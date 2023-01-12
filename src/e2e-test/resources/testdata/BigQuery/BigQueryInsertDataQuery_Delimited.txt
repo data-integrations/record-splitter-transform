@@ -1,0 +1,4 @@
+insert into `DATASET.TABLE_NAME` (user, item, action, timestamp) values
+('hary;hary1;hary2;hary3;hary4','donut','eat','ZipcodeOne'),
+('Albert,Albert1,Albert2,Albert3,Albert4','donut','eat','ZipcodeOne'),
+('delimiter1@delimiter2@delimiter3@delimiter4@delimiter5@delimiter6','donut','buy','ZipcodeOne');

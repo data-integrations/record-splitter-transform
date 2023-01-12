@@ -1,0 +1,2 @@
+create table `DATASET.TABLE_NAME` (user STRING, item STRING, action STRING, timestamp STRING
+)
